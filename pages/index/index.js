@@ -171,7 +171,7 @@ Page({
     `;
 		
     
-    WxParse.wxParse('article', 'html', article, that, 5);d
+    WxParse.wxParse('article', 'html', article, that, 5);
 
 
 
